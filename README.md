@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2 align="left">Hi 👋! My name is Teong Lee.</h2>
-<br>A 2nd Year Student from University of Technology Malaysia<br><br>I’m currently learning JavaScript, react<br><br>How to reach me khooteonglee2003@gmail.com
+<A 2nd Year Student from University of Technology Malaysia<br><br>I’m currently learning JavaScript, react<br><br>How to reach me khooteonglee2003@gmail.com
 
 
 ## 🌐 Socials:
