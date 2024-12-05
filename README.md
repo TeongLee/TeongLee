@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Teong Lee.</h2>
+<h1 align="left">Hi 👋! My name is Teong Lee.</h1>
 <A 2nd Year Student from University of Technology Malaysia
 
 
